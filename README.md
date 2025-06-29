@@ -21,3 +21,4 @@ AutoFlask AHK script for PoE. Useful at league-start until you get enough Instil
 * Make flasks buttons configurable
 * Make pixel detection work automatically for all resolutions
 * Being able to make separate configurations per character
+* Avoid multiple activation of same flask type (prioritize flasks which have the most charges)
